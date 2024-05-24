@@ -11,26 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* May 2023 : Bachelor of Science, Columbia Engineering (New York, NY)
+  * Major : Applied Mathematics (Specialization in Quantitative Biology)
+  * Minors : Biomedical Engineering, Philosophy
+* March 2019 : High School Diploma, Nishiyamato Gakuen High School (Nara, Japan)
+  * Science Track
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2023 - (Current) : Computational Biologist
+  * Dana-Farber Cancer Institute (Department of Pediatric Oncology), Broad Institute (Cancer Program)
+  * Research Themes : Pediatric Solid Tumors, Metastasis, Single-Cell Transcriptomics
+  * Supervisors : Dr. Riaz Gillani, Dr. Eliezer Van Allen, Dr. Katherine Janeway
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2020 - May 2023 : Undergraduate Research Assistant
+  * Columbia University (Department of Biomedical Informatics), Tatonetti Lab
+  * Research Themes : Adverse Drug Events, Pharmacogenomics, Natural Language Processing, Population Genomics
+  * Supervisors : Dr. Nicholas Tatonetti, Dr. Vijendra Ramlall, Katherine LaRow-Brown
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2022 - May 2023 : Undergraduate Research Assistant
+  * Rockefeller University (Laboratory of Evolutionary Genetics and Genomics)
+  * Tri-Institutional (Memorial Sloan Kettering, Rockefeller, Weill Cornell) Computational Biology Summer Program
+  * Research Themes : Genome Expansion, Novel Phenotype Acquisition, Functional Gene Prediction, Drosophila
+  * Supervisors : Dr. Li Zhao
+
   
 Skills
 ======
@@ -46,19 +50,7 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+
+Community Service, Leadership
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
