@@ -14,16 +14,16 @@ name                     : &name "yutaro tanaka."
 description              : &description "personal description"
 url                      : https://yutarohtanaka.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yutarohtanaka/personal_website"
+repository               : "yutarohtanaka/yutarohtanaka.github.io" # GitHub repository
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : "he/him"
+  avatar           : "profile_pic.png"
+  name             : "yutaro tanaka"
+  pronouns         : "(he/him)"
   bio              : "computational biologist"
   location         : "boston / tokyo"
   employer         : "dana-farber cancer institute"
